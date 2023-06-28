@@ -19,6 +19,7 @@
 <p> 🍎 currently studying a dipolma in front and back end web development</p>
 <p> 🤯 still exploring java script and all it's crazy possibilies</p>
 <p>⏲️ in my free time you'll most likely find me developing pop culture apis</p> 
+&nbsp;
 </div>
 
 <div align='center' id='languages'>
