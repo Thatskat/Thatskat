@@ -2,21 +2,25 @@
 <p align='center'>i'm a junior ux/ui developer from melbourne</p>
 
 <div align="center" id="linkedIn">
-  <a href='https://www.linkedin.com/in/katrina-gill/' target='_blank' rel='noreferrer'><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  
+  <a href='https://www.linkedin.com/in/katrina-gill/' target='_blank' rel='noreferrer'><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>  
 </div>
+
 &nbsp;
+
 <div align="center" id="profileViews">
   <img src="https://komarev.com/ghpvc/?username=Thatskat&style=flat-square&color=green" alt=""/>
 </div>
+
 &nbsp;
-<h2 align='center'>about me</h1>
+
+<h2 align='center'>about me</h2>
 <div align="center" id="aboutMe">
-  &nbsp;
- <p> 🍎 currently studying a dipolma in front and back end web development</p>
-  <p> 🤯 still exploring java script and all it's crazy possibilies</p>
+&nbsp;
+<p> 🍎 currently studying a dipolma in front and back end web development</p>
+<p> 🤯 still exploring java script and all it's crazy possibilies</p>
 <p>⏲️ in my free time you'll most likely find me developing pop culture apis</p> 
 </div>
+
 <div align='center' id='languages'>
   <h2>languages and tools</h2>
   &nbsp;
@@ -29,11 +33,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="MySql" alt="MySql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  
 </div>
+
 &nbsp;
+
 <div align='center'>
   <h2>what i'm working on</h2>
 </div>
