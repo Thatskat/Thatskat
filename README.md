@@ -11,6 +11,13 @@
 
 &nbsp;
 
+<h3>a bit about me</h3>
+<p>- 👨‍🎓 i'm currently studying a dipolma of front and back end web development</p>
+<p>- 🧑‍🍳 if i'm not making toasties or coffee i'll most likely be honing my javascript, sql or design skills</p>
+<p>- 🪄 in my free time i like to make some pop culture apis or read</p>
+
+&nbsp;
+
 <h3>some of my repositories</h3>
 <div>
   <a href='https://github.com/Thatskat/btvs-angel-api'><img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=Thatskat&repo=btvs-angel-api&title_color=BBF7D0&bg_color=1f242c&text_color=C7CED3&icon_color=BBF7D0" alt="btvs-angel-api"></a>
@@ -25,22 +32,3 @@
 <h3>languages and tools</h3>
 
 
-<div align='center' id='languages'>
-  <h2>languages and tools</h2>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="MySql" alt="MySql" width="40" height="40"/>&nbsp;
-</div>
-
-&nbsp;
-
-<div align='center'>
-  <h2>what i'm working on</h2>
-</div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thatskat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
