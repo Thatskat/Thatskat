@@ -28,6 +28,8 @@
   <a href='https://github.com/Thatskat/Katrinas-Official-Portfolio'><img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=Thatskat&repo=Katrinas-Official-Portfolio&title_color=BBF7D0&bg_color=1f242c&text_color=C7CED3&icon_color=BBF7D0" alt="Katrinas-Official-Portfolio"></a>
 </div>
 
+<a href='https://github.com/Thatskat?tab=repositories'><img src="https://img.shields.io/badge/All_Repositories-BBF7D0?style=for-the-badge&logoColor=1f242c" alt="View all Repositories Badge"/></a>
+
 &nbsp;
 
 <h3>languages and tools</h3>
