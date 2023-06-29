@@ -4,9 +4,10 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Belanosima&size=40&pause=1000&color=BBF7D0&center=true&vCenter=true&width=435&lines=hello+there" alt="Typing SVG" /></a>
   <p>i'm kat, a junior ux/ui developer from melbourne</p>
 </div>
-
+&nbsp;
 <div align='center' id='socialIcons'>
-  <a href='https://www.linkedin.com/in/katrina-gill/'><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=BBF7D0" alt="LinkedIn Badge"/></a> 
+  <a href='https://www.linkedin.com/in/katrina-gill/'><img src="https://img.shields.io/badge/LinkedIn-BBF7D0?style=for-the-badge&logo=linkedin&logoColor=1f242c" alt="LinkedIn Badge"/></a>&nbsp;
+  <a href='https://katrinas-official-portfolio.pages.dev/'><img src="https://img.shields.io/badge/Portfolio_Website-BBF7D0?style=for-the-badge&logoColor=1f242c" alt="Portfolio Badge"/></a> 
 </div>
 
 &nbsp;
@@ -31,14 +32,14 @@
 
 <h3>languages and tools</h3>
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="Html5" alt="Html5" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="Css3" alt="Css3" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="35" height="35"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="Html5" alt="Html5" width="35" height="35"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="Css3" alt="Css3" width="35" height="35"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="35" height="35"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="35" height="35"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="35" height="35"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="35" height="35"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="35" height="35"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="35" height="35"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="35" height="35"/>&nbsp;
 </div>
 
