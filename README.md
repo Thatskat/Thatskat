@@ -23,6 +23,8 @@
 <div>
   <a href='https://github.com/Thatskat/btvs-angel-api'><img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=Thatskat&repo=btvs-angel-api&title_color=BBF7D0&bg_color=1f242c&text_color=C7CED3&icon_color=BBF7D0" alt="btvs-angel-api"></a>
   &nbsp;
+    <a href='https://github.com/Thatskat/southpark-quotes-api'><img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=Thatskat&repo=southpark-quotes-api&title_color=BBF7D0&bg_color=1f242c&text_color=C7CED3&icon_color=BBF7D0" alt="South Park Quotes API"></a>
+    &nbsp;
   <a href='https://github.com/Thatskat/Buffy-the-Vampire-Slayer-And-Angel-Wiki'><img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=Thatskat&repo=Buffy-the-Vampire-Slayer-And-Angel-Wiki&title_color=BBF7D0&bg_color=1f242c&text_color=C7CED3&icon_color=BBF7D0" alt="Buffy the Vampire Slayer and Angel Wiki"></a>
   &nbsp;
   <a href='https://github.com/Thatskat/Katrinas-Official-Portfolio'><img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=Thatskat&repo=Katrinas-Official-Portfolio&title_color=BBF7D0&bg_color=1f242c&text_color=C7CED3&icon_color=BBF7D0" alt="Katrinas-Official-Portfolio"></a>
