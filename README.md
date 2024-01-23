@@ -13,9 +13,9 @@
 &nbsp;
 
 <h3>a bit about me</h3>
-<p>- 👨‍🎓 i'm currently studying a dipolma of front and back end web development</p>
+<p>- 👨‍🎓 i'm currently studying a bachelor of information systems</p>
 <p>- 🧑‍🍳 if i'm not making toasties or coffee i'll most likely be honing my javascript, sql or design skills</p>
-<p>- 🪄 in my free time i like to make some pop culture apis or read</p>
+<p>- 🪄 in my free time i like to make some pop culture apis, read or listen to music</p>
 
 &nbsp;
 
